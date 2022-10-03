@@ -1,9 +1,10 @@
 import React from 'react';
 import Link from '../Link';
+import './styles.css';
 
 const Navbar = () => {
   return (
-    <div>
+    <div class="flex-nav">
       <Link href="#" name="CONTACT" />
       <Link href="#" name="FAQ" />
     </div>
