@@ -4,7 +4,7 @@ import './styles.css';
 
 const Navbar = () => {
   return (
-    <div class="flex-nav">
+    <div className="nav">
       <Link href="#" name="CONTACT" />
       <Link href="#" name="FAQ" />
     </div>

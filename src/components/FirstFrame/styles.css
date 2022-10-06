@@ -1,0 +1,21 @@
+.first-frame {
+  background-color: #E9FF60;
+  height: 100vh;
+  text-align: center;
+}
+
+.pentagramma img {
+  max-width: 20%;
+  margin-top: 80px;
+}
+
+.monastero-main img {
+  max-width: 60%;
+  margin-top: 30px;
+}
+
+.first-frame-text {
+  color: #00DEA9;
+  width: 250px;
+  margin: 120px auto 0;
+}

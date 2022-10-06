@@ -1,4 +1,5 @@
-.flex-nav {
+.nav {
+  background-color: white;
   display: flex;
   justify-content: space-between;
   margin: 20px 40px;
