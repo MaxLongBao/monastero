@@ -1,0 +1,11 @@
+.frame-thirteen {
+  background-color: #E9FF60;
+  height: 100vh;
+}
+
+.building img {
+  display: block;
+  max-width: 20%;
+  margin: 0 auto;
+  padding-top: 80px;
+}

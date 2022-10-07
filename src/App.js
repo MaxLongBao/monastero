@@ -11,6 +11,7 @@ import FrameNine from './components/FrameNine';
 import FrameTen from './components/FrameTen';
 import FrameEleven from './components/FrameEleven';
 import FrameTwelve from './components/FrameTwelve';
+import FrameThirteen from './components/FrameThirteen';
 
 import './App.css';
 
@@ -30,6 +31,7 @@ function App() {
       <FrameTen />
       <FrameEleven />
       <FrameTwelve />
+      <FrameThirteen />
     </div>
   );
 }
