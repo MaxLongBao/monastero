@@ -7,6 +7,7 @@ import FrameFive from './components/FrameFive';
 import FrameSix from './components/FrameSix';
 import FrameSeven from './components/FrameSeven';
 import FrameEight from './components/FrameEight';
+import FrameNine from './components/FrameNine';
 
 import './App.css';
 
@@ -22,6 +23,7 @@ function App() {
       <FrameSix />
       <FrameSeven />
       <FrameEight />
+      <FrameNine />
     </div>
   );
 }
