@@ -1,6 +1,8 @@
 import Navbar from './components/Navbar';
 import FirstFrame from './components/FirstFrame';
 import SecondFrame from './components/SecondFrame';
+import FourthFrame from './components/FourthFrame';
+
 import './App.css';
 
 function App() {
@@ -9,6 +11,7 @@ function App() {
       <Navbar />
       <FirstFrame />
       <SecondFrame />
+      <FourthFrame />
     </div>
   );
 }

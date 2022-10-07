@@ -1,0 +1,11 @@
+.fourth-frame {
+  background-color: #E9FF60;
+  height: 100vh;
+  text-align: center;
+}
+
+.fourth-frame-text {
+  margin: 0 auto;
+  text-align: justify;
+  width: 290px;
+}

@@ -7,7 +7,6 @@ import './styles.css';
 function SecondFrame(props) {
   return (
     <div className="second-frame">
-      <hr />
       <div className="musician">
         <img src={musician} alt="musician" />
       </div>
