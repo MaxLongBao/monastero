@@ -1,0 +1,19 @@
+.frame-eight {
+  background-color: #E9FF60;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.frame-eight-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.content-paragraph-left, .content-paragraph-right {
+  text-align: justify;
+  width: 300px;
+  margin: 40px;
+}

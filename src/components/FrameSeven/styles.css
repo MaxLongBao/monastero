@@ -1,0 +1,32 @@
+.frame-seven h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.frame-seven p {
+  margin: 0;
+}
+
+.frame-seven {
+  background-color: #E9FF60;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-title {
+  max-width: 300px;
+}
+
+.content-paragraph {
+  max-width: 300px;
+  text-align: justify;
+}
+
+.frame-seven-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}

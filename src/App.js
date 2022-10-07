@@ -5,6 +5,8 @@ import ThirdFrame from './components/ThirdFrame';
 import FourthFrame from './components/FourthFrame';
 import FrameFive from './components/FrameFive';
 import FrameSix from './components/FrameSix';
+import FrameSeven from './components/FrameSeven';
+import FrameEight from './components/FrameEight';
 
 import './App.css';
 
@@ -18,6 +20,8 @@ function App() {
       <FourthFrame />
       <FrameFive />
       <FrameSix />
+      <FrameSeven />
+      <FrameEight />
     </div>
   );
 }
