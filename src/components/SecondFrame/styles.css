@@ -1,0 +1,19 @@
+.second-frame {
+  background-color: #E9FF60;
+  height: 100vh;
+  text-align: center;
+}
+
+.musician img, .church img {
+  width: 5%;
+}
+
+.musician {
+  margin-top: 100px;
+}
+
+.second-frame-text {
+  margin: 100px auto;
+  text-align: justify;
+  width: 300px;
+}

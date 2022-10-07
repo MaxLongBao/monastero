@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar';
 import FirstFrame from './components/FirstFrame';
+import SecondFrame from './components/SecondFrame';
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <FirstFrame />
+      <SecondFrame />
     </div>
   );
 }
