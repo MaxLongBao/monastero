@@ -1,0 +1,15 @@
+.frame-eleven {
+  background-color: #E9FF60;
+  height: 100vh;
+}
+
+.frame-eleven-title {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.frame-eleven-paragraph {
+  width: 300px;
+  text-align: justify;
+  margin: 100px auto;
+}

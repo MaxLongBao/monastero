@@ -1,0 +1,11 @@
+.frame-twelve {
+  background-color: #E9FF60;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame-twelve p {
+  color: #00DEA9;
+}
