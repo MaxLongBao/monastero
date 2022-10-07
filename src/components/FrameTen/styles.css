@@ -1,0 +1,21 @@
+.frame-ten {
+  background-color: white;
+  height: 100vh;
+}
+
+.frame-ten-content-title {
+  padding-top: 120px;
+  margin: 0 auto 100px;
+  text-align: center;
+}
+
+.frame-ten-content-paragraphs {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+  justify-content: space-around;
+}
+
+.frame-ten-paragraph-left, .frame-ten-paragraph-right {
+  max-width: 300px;
+}

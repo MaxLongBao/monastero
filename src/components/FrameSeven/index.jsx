@@ -6,7 +6,7 @@ function FrameSeven() {
   return (
     <div className="frame-seven">
       <div className="frame-seven-content">
-        <div className="content-title">
+        <div className="frame-seven-content-title">
           <h1>Not a label.</h1><h1>Not a distribution channel.</h1>
         </div>
         <div className="content-paragraph">
