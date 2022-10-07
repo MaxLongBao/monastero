@@ -4,8 +4,16 @@
   text-align: center;
 }
 
+.frame-four-content {
+  padding-top: 150px;
+}
+
 .fourth-frame-text {
-  margin: 0 auto;
+  margin: 70px auto;
   text-align: justify;
   width: 290px;
+}
+
+.pin img {
+  max-width: 3%;
 }
