@@ -5,7 +5,7 @@ import './styles.css';
 
 function FourthFrame() {
   return (
-    <div className="fourth-frame">
+    <div className="fourth-frame" id="four">
       <div className="frame-four-content">
         <div className="pin">
           <img src={google_pin} alt="google pin" />

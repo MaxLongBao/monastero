@@ -2,6 +2,7 @@
   background-color: #E9FF60;
   height: 100vh;
   text-align: center;
+  position: relative;
 }
 
 .musician img, .church img {
@@ -13,7 +14,7 @@
 }
 
 .second-frame-text {
-  margin: 100px auto;
+  margin: 60px auto;
   text-align: justify;
   width: 300px;
 }

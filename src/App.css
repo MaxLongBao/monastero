@@ -1,0 +1,21 @@
+.up_arrow {
+  position: absolute;
+  top: 1%;
+  left: 45%;
+}
+
+.down_arrow {
+  position: absolute;
+  bottom: 0;
+  left: 45%;
+}
+
+@media screen and (min-width: 400px) {
+  .down_arrow, .up_arrow {
+    left: 48%;
+  }
+}
+
+.down_arrow img, .up_arrow img {
+  width: 3rem;
+}

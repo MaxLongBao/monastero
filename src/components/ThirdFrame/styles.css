@@ -1,4 +1,18 @@
 .third-frame {
   background-color: white;
   height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: black;
+  position: relative;
+}
+
+.third-frame video {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.third-frame .up_arrow, .down_arrow {
+  background-color: #E9FF60;
+  border-radius: 100%;
 }
