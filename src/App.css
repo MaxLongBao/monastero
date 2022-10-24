@@ -16,6 +16,12 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+  .down_arrow {
+    bottom: 10%;
+  }
+}
+
 .down_arrow img, .up_arrow img {
   width: 3rem;
 }
