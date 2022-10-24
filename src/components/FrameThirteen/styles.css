@@ -14,3 +14,10 @@
 .contacts {
   padding: 40px 0 0 200px;
 }
+
+@media screen and (max-width: 600px) {
+  .contacts {
+    padding: 0;
+    text-align: center;
+  }
+}
