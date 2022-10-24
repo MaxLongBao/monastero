@@ -1,11 +1,17 @@
 import React from 'react';
 import building from '../../assets/building.png';
+import up_arrow from '../../assets/up_arrow.png';
 
 import './styles.css';
 
 function FrameThirteen() {
   return (
-    <div className="frame-thirteen">
+    <div className="frame-thirteen" id="thirteen">
+      <div className="up_arrow">
+        <a href="#twelve">
+          <img src={up_arrow} alt="go up" />
+        </a>
+      </div>
       <div className="frame-thirteen-content">
         <div className="building">
           <img src={building} alt="building" />

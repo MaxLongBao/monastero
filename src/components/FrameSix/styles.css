@@ -1,4 +1,11 @@
+.frame-six {
+  height: 100vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .frame-six img {
-  height: 100%;
-  width: 100%;
+  width: 70%;
 }

@@ -14,7 +14,7 @@ function ThirdFrame() {
         </a>
       </div>
       {/* <video autoPlay controls muted width="250"> */}
-      <video controls muted>
+      <video autoPlay muted>
       <source src={monasteroVideo} />
       </video>
       <div className="down_arrow">

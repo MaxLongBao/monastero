@@ -1,6 +1,7 @@
 .frame-eleven {
   background-color: #E9FF60;
   height: 100vh;
+  position: relative;
 }
 
 .frame-eleven-title {

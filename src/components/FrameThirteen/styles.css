@@ -1,6 +1,7 @@
 .frame-thirteen {
   background-color: #E9FF60;
   height: 100vh;
+  position: relative;
 }
 
 .building img {
@@ -8,4 +9,8 @@
   max-width: 20%;
   margin: 0 auto;
   padding-top: 80px;
+}
+
+.contacts {
+  padding: 40px 0 0 200px;
 }

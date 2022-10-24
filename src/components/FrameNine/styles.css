@@ -1,4 +1,17 @@
+.frame-nine {
+  height: 100vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
 .frame-nine img {
-  height: 100%;
-  width: 100%;
+  width: 80%;
+}
+
+.frame-nine .up_arrow, .frame-nine .down_arrow {
+  background-color: white;
+  border-radius: 100%;
 }
